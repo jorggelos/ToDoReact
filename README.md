@@ -29,7 +29,7 @@ ___
 Clone o projeto para o local desejado em seu computador.
 
 ```bash
-$ git clone git@github.com:andreviapiana/ToDoList-RN.git
+$ git clone git@github.com:andreviapiana/ToDoReact.git
 ```
 ___
 
